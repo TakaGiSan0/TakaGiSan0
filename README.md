@@ -47,9 +47,7 @@ _A project I'm excited about! Check it out:_
 
 ---
 
-![TakaGiSan0's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakaGiSan0&show_icons=true&theme=tokyonight)
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TakaGiSan0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![TakaGiSan0's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakaGiSan0&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TakaGiSan0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TakaGiSan0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
