@@ -1,15 +1,11 @@
 # Hi there, I’m TakaGiSan0! 👋
 
-🎓 **Student** | 💻 PHP & Laravel Enthusiast  
-🎮 Gamer at heart | 🥰 #TeamTakagiSan
+🥰 #TeamTakagiSan
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning and building cool things as a student.
-- 🛠️ Passionate about PHP and the Laravel framework.
-- 🎮 Gaming is my second language.
 - 💖 Waifu: Takagi San (of course!)
 
 ---
@@ -21,18 +17,9 @@
 
 ---
 
-## 🔥 Featured Project
-
-### [Training_Record](https://github.com/TakaGiSan0/Training_Record)
-_A project I'm excited about! Check it out:_
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TakaGiSan0&repo=Training_Record)](https://github.com/TakaGiSan0/Training_Record)
-
----
 
 ## 🎯 Fun Facts
 
-- I love games—challenge me anytime!
 - My waifu is Takagi San. If you know, you know. 😉
 
 ---
